@@ -62,7 +62,7 @@ char* str_to_lower(char* s){
 
 size_t str_size(const char* s){
     if (!s) return 0;
-    char* r=s;
+    char* r= (char*) s;
     while (*r++!=0){}
     return r-s;
 }

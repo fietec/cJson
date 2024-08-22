@@ -3,7 +3,7 @@
 
 #include <string.h>
 #include <stdarg.h>
-#include "clib/essentials.h>
+#include "clib/essentials.h"
 #include "clib/strlib.h"
 #include "clib/pathlib.h"
 #include "clib/pathsize.h"
