@@ -13,7 +13,7 @@ Simply include the header file:
 ```
 When compiling please, you have to link with the c files in the ```./src``` folder. 
 I know I am wrong for putting you up for that but I simply haven't quite figured out how build systems work and how to distribute such projects.
-(Please make pull requests for fixing this if you want to help me :) )
+(I would be glad for someone to make a pull request for fixing this if you want to help me :) \)
 
 ### Creating a cJSON Object
 
