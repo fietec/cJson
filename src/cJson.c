@@ -2,7 +2,7 @@
     Functions for working with the toplevel cJSON struct
 */
 
-#include "cJson.h"
+#include "../cJson.h"
 
 cJSON* cJson_create(void){
     cJSON* json = (cJSON*) calloc(1, sizeof(cJSON));

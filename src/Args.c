@@ -2,7 +2,7 @@
     Functions for handling arg-querys for cJson_get
 */
 
-#include "cJson.h"
+#include "../cJson.h"
 
 JsonArg* Arg(ArgType type, void* value){
     JsonArg* arg = (JsonArg*) malloc(sizeof(JsonArg));

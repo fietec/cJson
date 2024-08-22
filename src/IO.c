@@ -2,7 +2,7 @@
     Functions for parsing and writing JSON files
 */
 
-#include "cJson.h"
+#include "../cJson.h"
 
 typedef struct{
     JsonValue* value;

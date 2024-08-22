@@ -2,7 +2,7 @@
     Implementation of a hashmap (aka dictionary) of JsonValues
 */
 
-#include "cJson.h"
+#include "../cJson.h"
 
 unsigned long Dict_hash(char* key);
 JsonDictItem* Dict_create_item(char* key, JsonValue* value);

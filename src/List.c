@@ -2,7 +2,7 @@
     Implementation of an array list of JsonValues
 */
 
-#include "cJson.h"
+#include "../cJson.h"
 
 JsonList* JsonList_create(void){
     JsonList* list = (JsonList*) malloc(sizeof(JsonList));

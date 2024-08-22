@@ -2,7 +2,7 @@
     Functions for handling JsonValues
 */
 
-#include "cJson.h"
+#include "../cJson.h"
 
 void JsonValue_clear(JsonValue* value);
 
