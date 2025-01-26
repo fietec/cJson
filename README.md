@@ -1,4 +1,9 @@
 # cJson.h
+
+
+This library is **deprecated**, please use [cson.h](https://github.com/fietec/cson.h) instead!
+====
+
 A simple C library for parsing and manipulating JSON data.
 ## Features
 - **Simple API**: Easy-to-use functions for creating and manipulating JSON objects and arrays.
